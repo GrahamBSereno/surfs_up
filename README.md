@@ -6,7 +6,7 @@ The goal is to provide insights on temperature data for the months of June and D
 
 ## Results (3 Main Insights Gained):
 - June Temperatures vs December Temperatures
-  1. As shown below, there is not much variance between June and December temperatures. December can yield slightly lower temperatures, but this should not deter those who enjoy surfing and eating ice cream.
+ 1. As shown below, there is not much variance between June and December temperatures. December can yield slightly lower temperatures, but this should not deter those who enjoy surfing and eating ice cream.
   
   - June:
   

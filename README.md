@@ -17,15 +17,15 @@ The goal is to provide insights on temperature data for the months of June and D
   ![alt text](https://github.com/GrahamBSereno/surfs_up/blob/main/Extras/DecTemp.png)
   
 
-  - June Temperatures vs December Temperatures
+ - June Temperature Stats vs December Temperature Stats
   2. As shown below, mean temperatures are slightly lower in December (approx 4 degrees Farenheit).
   3. The minumum temperature in December of 56 degrees Farenheit means that there may be some cold days that require the business to shut down. The broader averages still reveal that this investment strategy is viable.
   
-  - June:
+  - June Stats:
   
   ![alt text](https://github.com/GrahamBSereno/surfs_up/blob/main/Extras/JuneTempStats.png)
   
-  - December:
+  - December Stats:
   
   ![alt text](https://github.com/GrahamBSereno/surfs_up/blob/main/Extras/DecTempStats.png)
 

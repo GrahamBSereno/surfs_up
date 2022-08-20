@@ -1,7 +1,7 @@
 # Surfs Up Challenge
 
 ## Purpose of the Surfs Up Challenge Analysis
-The goal is to provide insights on temperature data for the months of June and December in Oahu, Hawaii. This is to determine a surf and ice cream shop business is sustainable year-round.
+The goal is to provide insights on temperature data for the months of June and December in Oahu, Hawaii. This is to determine if a surf and ice cream shop business is sustainable year-round.
 
 
 ## Results (3 Main Insights Gained):
